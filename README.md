@@ -20,16 +20,16 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/amir-ys/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/amirinjastt" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="30" alt="twitter logo"  />
   </a>
   <a href="https://t.me/amirinjast" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="30" alt="telegram logo"  />
   </a>
   <a href="mailto:amir.you74@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="30" alt="gmail logo"  />
   </a>
 </div>
 
@@ -66,3 +66,12 @@
 </div>
 
 ###
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amir-ys&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=amir-ys&hide_border=true)<br/>
+
+---
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-ys&label=Profile%20views&color=fe428e&style=plastic" alt="amir-ys" /></p>
