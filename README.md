@@ -19,7 +19,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/amir-ys/" target="_blank">
+  <a href="https://www.linkedin.com/in/amir-ys" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/amirinjastt" target="_blank">
@@ -68,8 +68,12 @@
 ###
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amir-ys&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=amir-ys&hide_border=true)<br/>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://github-readme-stats.vercel.app/api?username=amir-ys&hide_border=true&include_all_commits=false&count_private=false" width="450" height="200">
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amir-ys&hide_border=true" width="450" height="200">
+</a>
 
 ---
 
