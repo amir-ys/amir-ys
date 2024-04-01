@@ -76,6 +76,3 @@
 </a>
 
 ---
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-ys&label=Profile%20views&color=fe428e&style=plastic" alt="amir-ys" /></p>
