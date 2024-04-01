@@ -66,9 +66,9 @@
 </div>
 
 ###
----
 
 ### 📊 GitHub Stats:
+---
 <a href="#" target="_blank" rel="noreferrer">
   <img src="https://github-readme-stats.vercel.app/api?username=amir-ys&hide_border=true&include_all_commits=false&count_private=false" width="450" height="200">
 </a>
