@@ -66,6 +66,7 @@
 </div>
 
 ###
+---
 
 ### 📊 GitHub Stats:
 <a href="#" target="_blank" rel="noreferrer">
@@ -74,5 +75,3 @@
 <a href="#" target="_blank" rel="noreferrer">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amir-ys&hide_border=true" width="450" height="200">
 </a>
-
----
