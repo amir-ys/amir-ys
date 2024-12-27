@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💡 I am a backend developer with 2+ years of experience in software development.<br>📚 I'm currently learning symfony framework<br>📫 You can contact me at amir.you74@gmail.com</p>
+<p align="left">💡 I am a backend developer with +3 years of experience in software development.<br>📚 I'm currently learning symfony framework<br>📫 You can contact me at amir.you74@gmail.com</p>
 
 ###
 
